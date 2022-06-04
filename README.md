@@ -1,5 +1,5 @@
-# 👋 Hey there, I'm <span style="color: blue">Joshua Wren</span>!.
-#### [Programmer](https://www.linkedin.com/in/jjwren/), [Cybersecurity Student](https://www.linkedin.com/in/jjwren/), [Brazilian Jiu-Jitsu Brown Belt](https://www.beltchecker.com/profile.php?id=23548), Total Nerd
+# 👋 Hey there, I'm **Joshua Wren**!.
+#### [Programmer](https://www.linkedin.com/in/jjwren/), Cybersecurity Student, [Brazilian Jiu-Jitsu Brown Belt](https://www.beltchecker.com/profile.php?id=23548), Total Nerd
     
 ---
     
