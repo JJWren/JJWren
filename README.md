@@ -14,7 +14,7 @@ I am a father of four awesome kiddoes. I have been married over a decade. My hob
 * HTML/CSS
 * A bit of JavaScript/React
 * A bit of Django Framework
-    
+---
 ### Tools
 * Penetration Testing (Metasploit, Zap, nmap, Wireshark, John the Ripper, etc.)
 * Computer Forensic (FTK Imager, Volatility, Autopsy, etc.)
