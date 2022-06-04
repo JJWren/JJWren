@@ -1,4 +1,4 @@
-# 👋 Hey there! I'm <span style="color: blue">Joshua Wren</span>.
+# 👋 Hey there, I'm <span style="color: blue">Joshua Wren</span>!.
 #### Programmer, Cybersecurity Student, <span style="color: brown">Brazilian Jiu-Jitsu Brown Belt</span>, <span style="color: blue">Total Nerd</span>
     
 ---
