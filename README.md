@@ -1,5 +1,5 @@
 # 👋 Hey there, I'm <span style="color: blue">Joshua Wren</span>!.
-#### Programmer, Cybersecurity Student, <span style="color: brown">Brazilian Jiu-Jitsu Brown Belt</span>, <span style="color: blue">Total Nerd</span>
+#### [Programmer](https://www.linkedin.com/in/jjwren/), [Cybersecurity Student](https://www.linkedin.com/in/jjwren/), [Brazilian Jiu-Jitsu Brown Belt](https://www.beltchecker.com/profile.php?id=23548), Total Nerd
     
 ---
     
@@ -11,21 +11,21 @@ I am a father of four awesome kiddoes. I have been married over a decade. My hob
 ---
     
 ### Technical Skills
-* C#/.NET
-* SQL Server
-* Python
-* HTML/CSS
-* A bit of JavaScript/React
-* A bit of Django Framework
+- C#/.NET
+- SQL Server
+- Python
+- HTML/CSS
+- A bit of JavaScript/React
+ A bit of Django Framework
     
 ---
     
 ### Tools
-* Penetration Testing (Metasploit, Zap, nmap, Wireshark, John the Ripper, etc.)
-* Computer Forensic (FTK Imager, Volatility, Autopsy, etc.)
-* Programming (VSCode, Visual Studio 2019/2022, Microsoft SQL Server Management Studio, Postman, LINQPad, etc.)
+- Penetration Testing (Metasploit, Zap, nmap, Wireshark, John the Ripper, etc.)
+- Computer Forensic (FTK Imager, Volatility, Autopsy, etc.)
+- Programming (VSCode, Visual Studio 2019/2022, Microsoft SQL Server Management Studio, Postman, LINQPad, etc.)
     
 ---
     
 ### Current Certifications
-* CompTIA A+
+- CompTIA A+
