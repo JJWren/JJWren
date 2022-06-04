@@ -1,4 +1,4 @@
-# 👋 Hey there, I'm **Joshua Wren**!.
+# 👋 Hey there, I'm Joshua Wren!
 #### [Programmer](https://www.linkedin.com/in/jjwren/), Cybersecurity Student, [Brazilian Jiu-Jitsu Brown Belt](https://www.beltchecker.com/profile.php?id=23548), Total Nerd
     
 ---
