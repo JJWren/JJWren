@@ -16,7 +16,7 @@ I am a father of four awesome kiddoes. I have been married over a decade. My hob
 - Python
 - HTML/CSS
 - A bit of JavaScript/React
- A bit of Django Framework
+- A bit of Django Framework
     
 ---
     
