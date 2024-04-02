@@ -15,7 +15,7 @@ I am a father of four awesome kiddoes. My hobbies span wide, but when I am not s
 - SQL Server
 - Python
 - HTML/CSS
-- A bit of JavaScript/React
+- JavaScript
 - A bit of Django Framework
     
 ---
