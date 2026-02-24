@@ -9,6 +9,8 @@ Outside of work and family life, I am a Brazilian Jiu-jitsu black belt with 20+ 
 
 If you don't find me doing one of the previously mentioned things, I am most likely breaking my home lab in some fashion while learning or trying something new.
 
+---
+
 ## 💻 Primary Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=azure,cs,dotnet,html,css,js,bootstrap,git,docker&theme=dark)](https://skillicons.dev)
 
@@ -21,23 +23,20 @@ _How come skillicons.dev doesn't have a Microsoft SQL Server icon? (ಠ_ಠ)_
 ### Other
 [![My Other Skills](https://skillicons.dev/icons?i=aws,ansible,bitbucket,github,kali,linux,mongodb,nginx,powershell,visualstudio,vscode)](https://skillicons.dev)
 
-## 🔨 Personal Projects
-### [FairShare](https://fairshare.theguywiththedogs.dev/)
+---
 
+# 🔨 Personal Projects
+
+## FairShare
 _Lightweight child-support "what-if" calculator (currently Alabama) with authentication and user management. A practical tool to help parents understand potential child support calculations in states without official calculators._
+
+### [Demo](https://fairshare.theguywiththedogs.dev/)
+### [Repo](https://github.com/JJWren/FairShare)
 
 **Built with:** .NET Core 9, SQLite, Bootstrap, Docker, Responsive Web Design
 
-<img width="1752" height="1753" alt="image" src="https://github.com/user-attachments/assets/82dad8d2-e6f8-42de-bdd7-957dc2f96ac9" />
+## 🏠🧪 Home Lab
 
-### 🏠🧪 Home Lab
+_A production-grade, hybrid-OS home infrastructure focused on **Automation**, **Network Privacy**, and **Security Research**._
 
-_Automated Self-Hosted Infrastructure_
-- **Networking:** DNS Management (A, CNAME, SRV), Reverse Proxies, Port Forwarding.
-- **Security:** SSL/TLS Encryption, Let’s Encrypt, HSTS, Firewall Configuration, Web Application Firewalls (WAF).
-- **Infrastructure:** Nginx, Docker/Containerization, Windows to Linux Administration via WSL (_planning for the eventual migration to a full Linux server environment_).
----
-- Architected and deployed a multi-service home network utilizing an Nginx Reverse Proxy to manage traffic for several subdomains on a single public IP.
-- Implemented SSL/TLS encryption for all web services using Let’s Encrypt and ACME protocol, ensuring secure data transmission for .dev TLD requirements.
-- Configured and secured a Windows-to-Linux-based (WSL) server environment, reducing attack surface by narrowing open ports and implementing DDNS for high availability.
-- Optimized network routing by mapping custom ports to specific internal services.
+### [Repo](https://github.com/JJWren/Home-Lab)
