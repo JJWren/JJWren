@@ -27,16 +27,13 @@ _How come skillicons.dev doesn't have a Microsoft SQL Server icon? (ಠ_ಠ)_
 
 # 🔨 Personal Projects
 
-## FairShare
+## [⚖️ FairShare](https://github.com/JJWren/FairShare)
 _Lightweight child-support "what-if" calculator (currently Alabama) with authentication and user management. A practical tool to help parents understand potential child support calculations in states without official calculators._
 
-### [Demo](https://fairshare.theguywiththedogs.dev/)
-### [Repo](https://github.com/JJWren/FairShare)
+_**Built with:** .NET Core 9, SQLite, Bootstrap, Docker, Responsive Web Design_
 
-**Built with:** .NET Core 9, SQLite, Bootstrap, Docker, Responsive Web Design
+[Live Demo](https://fairshare.theguywiththedogs.dev/)
 
-## 🏠🧪 Home Lab
+## [🏠🧪 Home Lab](https://github.com/JJWren/Home-Lab)
 
 _A production-grade, hybrid-OS home infrastructure focused on **Automation**, **Network Privacy**, and **Security Research**._
-
-### [Repo](https://github.com/JJWren/Home-Lab)
