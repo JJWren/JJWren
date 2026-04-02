@@ -1,7 +1,7 @@
 # Hey, I'm Josh!
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([YOUR_LINKEDIN_URL](https://www.linkedin.com/in/joshuamykitta/))
-[![My Website](https://img.shields.io/badge/MY_WEBSITE-800080?style=for-the-badge&logo=google-chrome&logoColor=white)]([YOUR_WEBSITE_URL](https://portfolio.theguywiththedogs.dev/))
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joshuamykitta/)
+[![My Website](https://img.shields.io/badge/MY_WEBSITE-800080?style=for-the-badge&logo=google-chrome&logoColor=white)](https://portfolio.theguywiththedogs.dev/)
 
 I am a full-stack software engineer with a deeper focus on backend engineering, security, and responsive design. I enjoy challenges and delivering high quality solutions to the end user.
 
